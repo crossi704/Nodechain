@@ -1,4 +1,4 @@
 # Nodechain
 Blockchain Implementation
 
-A publib Blockchain NodeJS implementation for study purpose.
+A public Blockchain NodeJS implementation for study purpose.
